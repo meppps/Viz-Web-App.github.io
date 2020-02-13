@@ -1,0 +1,27 @@
+
+body,table{
+    background-color: #f4f4f4;
+}
+
+/* h1,p{
+    text-align: center;
+}
+
+.wrapper{
+    background-color: #fff;
+    margin-top: 50px;
+}
+
+img{
+    position: relative;
+    /* right: 25%; */
+    /* left: 50%; */
+
+
+    table{
+        max-width: 1000px;
+    }
+
+    .row{
+        margin-left: 71px;
+    }

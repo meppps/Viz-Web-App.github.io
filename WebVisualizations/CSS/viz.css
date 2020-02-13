@@ -1,0 +1,42 @@
+
+.col{
+    flex-grow: 0 !important;
+    background: #fff;
+    text-align: center;
+    margin: 3px;
+    margin-top: 10px;
+}
+
+
+table img{
+    height: 183px;
+}
+
+
+.cont{
+    background: #fff;
+}
+
+figure{
+    margin: 0 !important;
+}
+
+
+body{
+    background-color: #f4f4f4;
+}
+
+.vizmap{
+    text-align: center;
+}
+
+/* @media screen and (max-width: 768px){
+    .wrap{
+        max-width: 100%;
+        text-align: center;
+    }
+} */
+
+img.active{
+    border: 3px solid black;
+}
